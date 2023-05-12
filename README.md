@@ -39,5 +39,5 @@ each level is 500 proxy so 2 will be 1000 in total
 `https://ip:port`
 `socks5://ip:port`
 `socks4://ip:port`
+![Image Description](https://github.com/kh4xi/Proxy-Validator/blob/main/utils/id.PNG?raw=true)
 
-[alt text](https://github.com/kh4xi/Proxy-Validator/blob/main/utils/id.PNG?raw=true)

@@ -34,13 +34,10 @@ each level is 500 proxy so 2 will be 1000 in total
 ### Check for updates
 `python proxy-valid.py --update check`
 
-### ALL COMMANDS
+### Example Proxy List
+`http://ip:port`
+`https://ip:port`
+`socks5://ip:port`
+`socks4://ip:port`
 
 
-`Usage : proxy-valid.py --help
-        proxy-valid.py --auto all or --auto https,socks5...
-        proxy-valid.py --auto all --level 2 (Default is 1 / 1 means 500 max)
-        proxy-valid.py --validate User/Desktop/proxy.txt
-        proxy-valid.py --update check
-        Supported Methods (Socks5, Socks4, Http, Https)
-        Note: Testing speed could be low due to respond time of proxy`

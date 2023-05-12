@@ -7,6 +7,9 @@ note that currently not supports user:pass login
 supported protocols's are HTTP, HTTPS, SOCKS5, SOCKS4
 
 #### MIT License 
+
+![Image Description](https://github.com/kh4xi/Proxy-Validator/blob/main/utils/id.PNG?raw=true)
+
 ### Installing dependencies
 
 `pip install -r requirements.txt`
@@ -39,5 +42,5 @@ each level is 500 proxy so 2 will be 1000 in total
 `https://ip:port`
 `socks5://ip:port`
 `socks4://ip:port`
-![Image Description](https://github.com/kh4xi/Proxy-Validator/blob/main/utils/id.PNG?raw=true)
+
 

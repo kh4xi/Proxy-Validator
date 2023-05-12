@@ -2,7 +2,7 @@
 Automatic Proxy validation tool. You can choose to use --auto function to
 get the list of the proxies by itself or you can use the --validate function
 to test your proxy list integrity.
-
+(MIT LICENSE)
 note that currently not supports user:pass login
 
 supported protocols's are HTTP, HTTPS, SOCKS5, SOCKS4

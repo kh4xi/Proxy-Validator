@@ -1,6 +1,6 @@
 # Proxy-Validator
 Automatic Proxy validation tool. You can choose to use --auto function to
-get the list of the proxies by itself or you can use the --validate function
+get the list of the proxies by itself from online source or you can use the --validate function
 to test your proxy list integrity.
 note that currently not supports user:pass login
 

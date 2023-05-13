@@ -4,7 +4,7 @@ get the list of the proxies by itself from online source or you can use the --va
 to test your proxy list integrity.
 note that currently not supports user:pass login
 
-supported protocols's are HTTP, HTTPS, SOCKS5, SOCKS4
+supported protocols's are HTTP, HTTPS, SOCKS5, SOCKS4,
 auto option is gathering proxies from genode.
 #### MIT License 
 

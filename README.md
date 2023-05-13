@@ -5,7 +5,7 @@ to test your proxy list integrity.
 note that currently not supports user:pass login
 
 supported protocols's are HTTP, HTTPS, SOCKS5, SOCKS4
-
+auto option is gathering proxies from genode.
 #### MIT License 
 
 ![Image Description](https://github.com/kh4xi/Proxy-Validator/blob/main/utils/id.PNG?raw=true)
